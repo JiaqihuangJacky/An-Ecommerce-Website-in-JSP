@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;Tomcat v9.0 Server at localhost-config&apos; to &apos;Servers&apos;" description="Move &apos;Tomcat v9.0 Server at localhost-config&apos; to &apos;Servers&apos;" destination="Servers" element1="Tomcat v9.0 Server at localhost-config" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1501315536324" updateReferences="true"/>
+</session>
